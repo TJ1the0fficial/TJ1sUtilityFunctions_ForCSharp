@@ -2,7 +2,7 @@
 
 namespace Learning_II
 {
-    public class AbdisUtilityFunctions
+    public class TJ1sUtilityFunctions
     {
         public static string input(params object[] text) {
             Console.Write(string.Join(" ",text));
@@ -16,3 +16,4 @@ namespace Learning_II
     }
     
 }
+
