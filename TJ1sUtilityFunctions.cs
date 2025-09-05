@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Learning_II
+namespace TJ1
 {
     public class TJ1sUtilityFunctions
     {
@@ -16,4 +16,5 @@ namespace Learning_II
     }
     
 }
+
 
