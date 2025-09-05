@@ -6,8 +6,8 @@ I did not use any ai to make my code, but I did use ai to learn new stuff and to
 
 <h3> Functions: </h3>
 <ul>
-  <li>-print (Prints out anything to the console, just like in Python)</li>
-  <li>-input (Works the same way like in Python)</li>
+  <li>print (Prints out anything to the console, just like in Python)</li>
+  <li>input (Works the same way like in Python)</li>
 </ul>
 
 
