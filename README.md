@@ -5,9 +5,9 @@ I made this because I thought that it would be fun to make my life easier with t
 I did not use any ai to make my code, but I did use ai to learn new stuff and to explain them to me.
 
 <h3> Functions: </h3>
-<ol>
+<ul>
   <li>-print (Prints out anything to the console, just like in Python)</li>
   <li>-input (Works the same way like in Python)</li>
-</ol>
+</ul>
 
 
